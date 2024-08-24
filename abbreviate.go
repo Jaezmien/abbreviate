@@ -4,7 +4,7 @@
 // ...of which is based on R's abbrivate: https://stat.ethz.ch/R-manual/R-patched/library/base/html/abbreviate.html
 // Ported to Go by Jaezmien Naejara under the MIT License
 
-package main
+package abbreviate
 
 import (
 	"strings"
