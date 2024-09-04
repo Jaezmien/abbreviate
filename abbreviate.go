@@ -1,9 +1,3 @@
-// Abbreviate.go
-
-// Based on the NPM package: https://github.com/paulpflug/abbreviate
-// ...of which is based on R's abbrivate: https://stat.ethz.ch/R-manual/R-patched/library/base/html/abbreviate.html
-// Ported to Go by Jaezmien Naejara under the MIT License
-
 package abbreviate
 
 import (
