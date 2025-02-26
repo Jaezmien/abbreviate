@@ -7,5 +7,5 @@ This library is based off the NodeJS package [abbreviate](https://github.com/pau
 ## Download
 
 ```
-go get git.jaezmien.com/Jaezmien/abbreviate
+go get github.com/Jaezmien/abbreviate
 ```

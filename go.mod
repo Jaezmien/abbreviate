@@ -1,3 +1,3 @@
-module git.jaezmien.com/Jaezmien/abbreviate
+module github.com/Jaezmien/abbreviate
 
 go 1.22.6
